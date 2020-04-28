@@ -7,5 +7,6 @@ public class chap04Run {
 		UserService service = new UserService();
 		service.method1();
 		// UserService 객체에 있는 method1() 호출
+		// 오예 // push 진행
 	}
 }
