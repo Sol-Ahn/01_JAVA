@@ -6,5 +6,6 @@ public class chap04Run {
 	public static void main(String[] args) {
 		UserService service = new UserService();
 		service.method1();
+		// UserService 객체에 있는 method1() 호출
 	}
 }
