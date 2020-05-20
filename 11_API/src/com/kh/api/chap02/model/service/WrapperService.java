@@ -24,7 +24,7 @@ public class WrapperService {
 		 * int     --> Integer
 		 * long    --> Long
 		 * float   --> Float
-		 * double  -->Double
+		 * double  --> Double
 		 * char    --> Character
 		 * boolean --> Boolean
 		 * 

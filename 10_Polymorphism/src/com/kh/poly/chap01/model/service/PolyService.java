@@ -17,7 +17,7 @@ public class PolyService {
 		
 		// ************************
 		// 부모 타입 참조 변수로 자식 객체 참조 시
-		// 자식 내부에 있는 자신(부모) 부분만 참조할 수 있음!!
+		// 자식 내부에 있는 자신(부모)부분만 참조할 수 있음!!
 //		System.out.println(cars[0].hybrid());
 		
 		System.out.println(cars[0].toString());

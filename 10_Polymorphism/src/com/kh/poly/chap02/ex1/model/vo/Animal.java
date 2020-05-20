@@ -4,7 +4,7 @@ public interface Animal {
 	
 	
 	// 인터페이스의 필드는 무조건 public static final
-	//public static final int SOUL = 1;
+	// public static final int SOUL = 1;
 	
 	// 인터페이스의 필드는 묵시적으로 public static final
 	int SOUL = 1;

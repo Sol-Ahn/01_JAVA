@@ -4,7 +4,6 @@ public interface ExampleService {
 	public abstract String javaFeatures();
 	// 자바의 특징을 반환
 	
-	
 	public abstract String defineInheritance();
 	// 상속의 정의를 반환
 	

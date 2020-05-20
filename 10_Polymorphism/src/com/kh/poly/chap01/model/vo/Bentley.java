@@ -6,7 +6,7 @@ public class Bentley extends Car{
 		return "우산 꺼내기";
 	}
 
-	// 부모의 메소드 drive() 를 재정의 -> 오버라이팅
+	// 부모의 메소드 drive() 를 재정의 -> 오버라이딩
 	@Override
 	public String drive() {
 		return "날아다님";

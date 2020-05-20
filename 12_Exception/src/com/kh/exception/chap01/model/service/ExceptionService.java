@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class ExceptionService {
 	public void example1() {
 		// Unchecked Exception
-		// 별도의 예외처리를 하지 않아도 되는 예외(Exception>
+		// 별도의 예외처리를 하지 않아도 되는 예외(Exception)
 		// 주로 프로그래머의 부주의로 인한 오류인 경우가 많기 때문에 
 		// 예외처리 코드보다는 if문 등을 이용하여 코드를 수정하는 경우가 많음.
 		
